@@ -4,6 +4,25 @@
     align-items: center;
     margin: 50px 0;
   }
+  .image1 {
+    max-width: 100%;
+    width: 395px;
+    height: 250px;
+    border-radius: 4px;
+  }
+  .image2 {
+    max-width: 100%;
+    width: 395px;
+    height: 250px;
+    border-radius: 4px;
+  }
+  .image3 {
+    max-width: 100%;
+    width: 395px;
+    height: 250px;
+    max-height: 120%;
+    border-radius: 4px;
+  }
   
   .card {
     margin: 0 2% !important;
