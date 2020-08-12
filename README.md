@@ -1,4 +1,4 @@
-# Covid19 Tracker App
+# Covid19 Tracker App made by owais
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 # Introduction
